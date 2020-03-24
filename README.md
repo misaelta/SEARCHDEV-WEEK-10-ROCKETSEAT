@@ -1,2 +1,2 @@
-# SEARCHDEV-WEEK-10-ROCKETSEAT
-App para procurar Devs pelo username do github baseado na geolocalização
+# SEARCHDEV-WEEK-10-ROCKETSEAT-
+Um aplicativo que serve para buscar Devs pelo username do github baseado na sua geolocalização.
